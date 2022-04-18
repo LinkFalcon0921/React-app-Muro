@@ -2,4 +2,3 @@
 .env.development
 
 .vscode
-src/utilities/firebase/connection.js
