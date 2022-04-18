@@ -84,7 +84,7 @@ const configSucessAddedMessage = {
 
 const sucessAdded = (component) => {
   toast.update(component, {
-    render: 'Usuario creado! Verifique su correo.',
+    render: 'Usuario creado!',
     ...configSucessAddedMessage,
   });
 };
