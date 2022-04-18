@@ -9,7 +9,9 @@
 
 ## Take a look in:
 
-[Link of](https://react-arwdmq.stackblitz.io)
+[Hecha un vistazo aca](https://react-arwdmq.stackblitz.io)
+
+Nota: dentro de la carpeta src en utilities/firebase/connection.js agregue las credenciales del api de firebase
 
 # English
 
@@ -24,4 +26,6 @@
 
 ## Take a look at:
 
-[Link from](https://react-arwdmq.stackblitz.io)
+[Have a look here](https://react-arwdmq.stackblitz.io)
+
+Note: inside the src folder in utilities/firebase/connection.js add the firebase api credentials
